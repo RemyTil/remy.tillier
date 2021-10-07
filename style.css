@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&family=Poiret+One&family=Roboto:wght@100&display=swap');
+body {background-color: #A76971;}
+
+body{font-family: 'Poiret One', cursive; text-align: center; text-align-last: center; }
+h1{color: beige;background-color: grey;} 
+
+div {
+	margin: 80px;
+	padding:  40px;
+	border: 1px solid black;
+    border-radius: 7px;
+    box-shadow: #6a4247c7 -3px -1px 1px 4px;
+}
+
+img	{
+	border-radius: 20%;
+}
+
+
+ul{
+	padding: 0;
+	list-style: none;
+}
+
+#mail{
+	color: blue;
+}
+
+#mail:hover {
+	color: white;
+	transition: 0.5s;
+}
+
+#linkedin{
+	color: blue;
+}
+
+#linkedin:hover {
+	color: white;
+	transition: 0.5s;
+}
+
+#contact{
+	font-size: 30px;
+	color: blue;
+}
+
+#contact:hover { 
+	color: white;
+	transition: 0.5s;
+}
+
