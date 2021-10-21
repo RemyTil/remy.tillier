@@ -2,7 +2,7 @@
 body {background-color: #A76971;}
 
 body{font-family: 'Poiret One', cursive; text-align: center; text-align-last: center; }
-h1{color: beige;background-color: grey; border-radius: 7px;width: 400px;} 
+h1{color: beige;background-color: grey; border-radius: 7px;width: 400px;margin:  0 auto;} 
 
 div {
 	padding:  40px;
