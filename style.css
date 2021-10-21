@@ -2,14 +2,15 @@
 body {background-color: #A76971;}
 
 body{font-family: 'Poiret One', cursive; text-align: center; text-align-last: center; }
-h1{color: beige;background-color: grey;} 
+h1{color: beige;background-color: grey; border-radius: 7px;width: 400px;} 
 
 div {
-	margin: 80px;
 	padding:  40px;
 	border: 1px solid black;
     border-radius: 7px;
     box-shadow: #6a4247c7 -3px -1px 1px 4px;
+    width: 65%;
+    margin: 60px auto;
 }
 
 img	{
@@ -20,6 +21,14 @@ img	{
 ul{
 	padding: 0;
 	list-style: none;
+}
+
+#skills-list {
+	text-align: left;
+	width: 150px;
+	border: none;
+	margin: 0 auto;
+	box-shadow: none;
 }
 
 #mail{
