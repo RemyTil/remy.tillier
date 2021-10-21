@@ -46,7 +46,7 @@ ul{
 }
 
 #mail{
-	color: blue;
+	color: #0c7ded;
 }
 
 #mail:hover {
@@ -55,7 +55,7 @@ ul{
 }
 
 #linkedin{
-	color: blue;
+	color: #0c7ded;
 }
 
 #linkedin:hover {
@@ -65,7 +65,7 @@ ul{
 
 #contact{
 	font-size: 30px;
-	color: blue;
+	color: #0c7ded;
 }
 
 #contact:hover { 
